@@ -1,0 +1,1 @@
+# simplesteamaccountmanager version 1
