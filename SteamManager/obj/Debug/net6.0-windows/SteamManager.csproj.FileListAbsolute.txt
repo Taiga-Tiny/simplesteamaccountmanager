@@ -1,0 +1,17 @@
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\bin\Debug\net6.0-windows\SteamManager.exe
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\bin\Debug\net6.0-windows\SteamManager.deps.json
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\bin\Debug\net6.0-windows\SteamManager.runtimeconfig.json
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\bin\Debug\net6.0-windows\SteamManager.dll
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\bin\Debug\net6.0-windows\SteamManager.pdb
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.csproj.AssemblyReference.cache
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.Form1.resources
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.csproj.GenerateResource.cache
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.AssemblyInfoInputs.cache
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.AssemblyInfo.cs
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.csproj.CoreCompileInputs.cache
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.dll
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\refint\SteamManager.dll
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.pdb
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\SteamManager.genruntimeconfig.cache
+E:\DESKTOP\MVC\A Lot\SteamManager\SteamManager\obj\Debug\net6.0-windows\ref\SteamManager.dll
