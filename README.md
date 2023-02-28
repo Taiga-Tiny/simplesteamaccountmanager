@@ -1,1 +1,1 @@
-# simplesteamaccountmanager version 1
+# simplesteamaccountmanager 
